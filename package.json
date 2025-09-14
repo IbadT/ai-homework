@@ -1,0 +1,17 @@
+{
+  "name": "api-testing-fakestore",
+  "version": "1.0.0",
+  "description": "API Testing: Identifying Defects in Product Data for fakestoreapi.com",
+  "main": "api_tests.js",
+  "scripts": {
+    "test": "node api_tests.js",
+    "start": "node api_tests.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "colors": "^1.4.0"
+  },
+  "keywords": ["api", "testing", "validation", "fakestore"],
+  "author": "",
+  "license": "MIT"
+}
