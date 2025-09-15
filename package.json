@@ -4,7 +4,7 @@
   "description": "API Testing: Identifying Defects in Product Data for fakestoreapi.com",
   "main": "api_tests.js",
   "scripts": {
-    "test": "node api_tests.js",
+    "test": "node 2-api-testing/api_tests.js",
     "start": "node api_tests.js"
   },
   "dependencies": {
